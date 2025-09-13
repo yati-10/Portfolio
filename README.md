@@ -1,52 +1,24 @@
-# Personal Website Starter Code
+[![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme)
 
-This is a place for you to start building your personal website!
+# Personal Portfolio Webpage
 
-### Project Requirements
-Your project should:
-- Include one home HTML page that's all about you!
-- Include a navigation bar that is included on all your website's pages.
-- Include one portfolio HTML page to showcase your projects.
-- Have all text, image(s), links, and/or videos on the page contained within appropriate HTML elements.
-- Include alt text for every image in your website.
-- Apply styles to text, image, and navigation bar elements using CSS rules.
-- Use classes and/or IDs to style CSS elements.
+## 📖 Overview
 
-### Extensions
-You can extend your project further by:
-- Customizing the fonts.
-- Adding some fancy CSS styles.
-- Embedding YouTube videos.
-- Adding another page or more content.
+This is my personal portfolio website that makes me, my passions, and my interest in tech center-stage. It reflects my interests, projects I plan to make, and future visions for computer science. The site marries code and creativity and is equally a fun entrance and showcase of my first web development works.
+
+## ✨ Features
+
+* **Home Page**:  Welcomes visitors with a short intro, hobbies, and pictures (cooking, tech, movies).
+* **Portfolio Page**: Lists what I am learning, projects to develop, and my goals in tech.
+* **Fun Corner**: A personal section with my favorite emoji, dream job, favorite tech tool, and an inspirational quote by A.P.J. Abdul Kalam.
+* **Skills Section**: Shows skills learned (Java, Python) and skills in programming (HTML, C++).
+* **Navigation Bar**: Easy navigation between the Home and Portfolio pages.
+* **Clean, Responsive Design**: Styled with CSS for accessibility and visual appeal.
 
 
-### Image Attributions
-*Tell us where you found the image you are using! Make sure it is in the public domain, has a license that allows you to use it, or is one you took on your own. Check out [archive.org](https://archive.org/), [Pixabay](https://pixabay.com/), [Unsplash](https://unsplash.com/), or [Burst](https://burst.shopify.com/) for free, uncopyrighted images.*
-- Ada Lovelace Image on index.html: Alfred Edward Chalon / Public domain 
-- Ada Lovelace Program Image on portfolio.html: Ada Lovelace / Public domain
-- The Analytical Engine portfolio.html: Science Museum London / Science and Society Picture Library / CC BY-SA [https://creativecommons.org/licenses/by-sa/2.0]()
-- Portfolio Header Background Code Image from Pixabay [Image Link](https://pixabay.com/vectors/background-the-background-1086840/)
+## 🎯 Goal
 
----
+The goal of this project is to learn more about myself through web development and develop the skill for building a personal online presence. It reflects my creativity, interest in coding, and motivation to learn computer science.
 
-## File Overview
+<img width="1710" height="978" alt="Screenshot 2025-09-13 at 2 56 28 PM" src="https://github.com/user-attachments/assets/dafc2cae-9d97-4084-9679-85fbbb779894" />
 
-### ← README.md
-
-That's this file. This is the place to tell people more about what your website does and how you built it. 
-
-### ← index.html
-
-HTML files are for content! Add your text, images, buttons, and more using HTML tags.
-
-### ← style.css
-
-CSS files add styling rules to your content like changing colors and fonts. 
-
-### ← script.js
-
-JavaScript files add interactivity to your website using code. This is where you can listen for events, then take an action.
-
-### ← assets
-
-Drag in `assets`, like images or music, to add them to your project. You do not need to add anything to this folder unless you are working on the extensions. If you are adding an image, it is best to save it to your computer, then upload the file to the `assets` folder. The url of the image will be `assets/example.jpg`.
