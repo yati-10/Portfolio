@@ -2,11 +2,11 @@
 
 # Personal Portfolio Webpage
 
-## 📖 Overview
+## Overview
 
 This is my personal portfolio website that makes me, my passions, and my interest in tech center-stage. It reflects my interests, projects I plan to make, and future visions for computer science. The site marries code and creativity and is equally a fun entrance and showcase of my first web development works.
 
-## ✨ Features
+## Features
 
 * **Home Page**:  Welcomes visitors with a short intro, hobbies, and pictures (cooking, tech, movies).
 * **Portfolio Page**: Lists what I am learning, projects to develop, and my goals in tech.
@@ -16,7 +16,7 @@ This is my personal portfolio website that makes me, my passions, and my interes
 * **Clean, Responsive Design**: Styled with CSS for accessibility and visual appeal.
 
 
-## 🎯 Goal
+## Goal
 
 The goal of this project is to learn more about myself through web development and develop the skill for building a personal online presence. It reflects my creativity, interest in coding, and motivation to learn computer science.
 
